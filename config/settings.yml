@@ -1,0 +1,7 @@
+plugins:
+  installapp_enabled:
+    default: false
+    client: true
+  installapp_manifest_url:
+    default: "http://csa-discourse.mofostaging.net/manifest.webapp"
+    client: true
