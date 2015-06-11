@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    installapp_enabled: "Enable Install App Button"
+    installapp_manifest_url: "Manifest URL"
